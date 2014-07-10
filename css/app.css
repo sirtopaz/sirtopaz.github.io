@@ -1,16 +1,11 @@
-/* CSS Document */
-
-* {
-	box-sizing:border-box;
-}
+/* Application.css */
 
 html {
-	margin:0; padding:0;
 	background:rgba(255, 200, 124,1);
 }
 
 body {
-	margin:0; padding:0;
+	background:rgba(255, 200, 124,1);
 }
 
 a, a:visited {
